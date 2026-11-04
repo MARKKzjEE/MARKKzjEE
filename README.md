@@ -12,4 +12,4 @@ Laravel · Filament · Django · React · Angular · Astro · TypeScript · Post
 
 - Web: [marcgallego.com](https://marcgallego.com)
 - LinkedIn: [marcgallegodev](https://www.linkedin.com/in/marcgallegodev/)
-- Instagram: [@markgallego](https://www.instagram.com/markgallego/)
+- Instagram: [@markgallego](https://www.instagram.com/devemeworks/)
